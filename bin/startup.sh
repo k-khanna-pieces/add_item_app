@@ -1,2 +1,2 @@
 dart run
-tail -f /dev/null
+node ./bin/k8s/externalServer.js
